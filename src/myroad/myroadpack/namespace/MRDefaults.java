@@ -83,12 +83,7 @@ public class MRDefaults {
 		}					
 	}	
 		
-	/*
-	Calendar c = Calendar.getInstance();
-	SimpleDateFormat df = new SimpleDateFormat(MY_FILEDATE_FORMAT);
-	String formattedDate = df.format(c.getTime());
-	*/
-	
+
 	public static String getQueueFileName(String user, String track, String ext) {
 		return "myroad_" + user+"_" + track + "." + ext;
 	}

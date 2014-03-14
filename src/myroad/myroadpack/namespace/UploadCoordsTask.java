@@ -62,6 +62,7 @@ public class UploadCoordsTask extends AsyncTask<String, Void, String> {
 		//smsReceiver1 = sms1;
 		//smsReceiver2 = sms2;		
 		//mrservice = serv;
+		
 	}
 	
 	protected String doDO(String... params) {	

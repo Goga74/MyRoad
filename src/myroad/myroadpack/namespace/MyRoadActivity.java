@@ -408,6 +408,7 @@ public class MyRoadActivity extends Activity implements OnClickListener {
 			sendMessage2Service(MRDefaults.MSG_GET_LAST_STATE);
 			return true;
 */			
+
         
         case R.id.options:
         	// отключаем сервис на время работы с настройками

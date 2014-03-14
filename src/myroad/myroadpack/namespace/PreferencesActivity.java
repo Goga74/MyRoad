@@ -39,7 +39,8 @@ public class PreferencesActivity extends PreferenceActivity {
 	        }
     	};
         
-        deltasecsPrefs.setOnPreferenceChangeListener(pcl);        
+        deltasecsPrefs.setOnPreferenceChangeListener(pcl);  
+        
         trackIDPrefs.setOnPreferenceChangeListener(pcl);
     }
     

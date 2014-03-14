@@ -28,5 +28,6 @@ public class MyRoadApplication extends Application {
 
 	public void setNavigationService(MyRoadService navigationService) {
 		this.navigationService = navigationService;
-	}	
+	}
+	
 }

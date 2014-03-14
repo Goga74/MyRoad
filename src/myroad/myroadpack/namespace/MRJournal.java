@@ -97,4 +97,5 @@ public class MRJournal {
 	        
 	    return writer.toString();	
 	}
+	
 }
